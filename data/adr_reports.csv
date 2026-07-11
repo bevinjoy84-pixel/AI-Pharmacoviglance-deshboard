@@ -1,0 +1,2 @@
+Case_ID,Patient_Name,PatientAge,Gender,DrugName,Reaction,Seriousness,Outcome
+,,0,Male,,,Mild,Recovered
