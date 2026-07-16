@@ -7,3 +7,6 @@ ADR112,BHUVINASH,21,Male,,,Mild,Recovered
 ADR432,BEVIN ,20,Male,PARACETAMOL,HEADECH,Mild,Recovered
 CASE100,BEVIN ,21,Male,PARACETOMAL,HEADECH,Mild,Recovered
 ,,0,Male,,,Mild,Recovered
+CDR001,BEVIN JOY ,13,Male,AMOXICILINE ,SKIN RASH ,Fatal,Not Recovered
+CDR001,BEVIN JOY ,13,Male,AMOXICILINE ,SKIN RASH ,Fatal,Recovered
+,,0,Male,,,Mild,Recovered
